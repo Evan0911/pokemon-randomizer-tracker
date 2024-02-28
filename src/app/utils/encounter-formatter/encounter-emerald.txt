@@ -160,7 +160,7 @@ Granite Cave BF2
      Geodude     Lv 5-20    Very Common
      Nosepass    Lv 10-20   Common
 
-Granite Cave Stephen’s Room
+Granite Cave Stephen's Room
      Zubat       Lv 7-8     Common
      Makuhita    Lv 6-10    Very Common
      Abra        Lv 8       Uncommon

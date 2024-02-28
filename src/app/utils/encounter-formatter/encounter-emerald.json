@@ -1,12 +1,14 @@
-{
-    "Rt 101": {
+[
+    {
+        "zone": "Rt 101",
         "walk": [
             "Wurmple",
             "Poochyena",
             "Zigzagoon"
         ]
     },
-    "Rt 103": {
+    {
+        "zone": "Rt 103",
         "walk": [
             "Poochyena",
             "Wingull",
@@ -33,7 +35,8 @@
             ]
         }
     },
-    "Rt 102": {
+    {
+        "zone": "Rt 102",
         "walk": [
             "Poochyena",
             "Wurmple",
@@ -61,7 +64,8 @@
             ]
         }
     },
-    "Petalburg City": {
+    {
+        "zone": "Petalburg City",
         "surf": [
             "Marill"
         ],
@@ -80,7 +84,8 @@
             ]
         }
     },
-    "Rt 104": {
+    {
+        "zone": "Rt 104",
         "walk": [
             "Poochyena",
             "Wurmple",
@@ -104,7 +109,8 @@
             ]
         }
     },
-    "Petalburg Woods": {
+    {
+        "zone": "Petalburg Woods",
         "walk": [
             "Poochyena",
             "Wurmple",
@@ -115,7 +121,8 @@
             "Slakoth"
         ]
     },
-    "Rt 116": {
+    {
+        "zone": "Rt 116",
         "walk": [
             "Poochyena",
             "Whismur",
@@ -125,12 +132,14 @@
             "Skitty"
         ]
     },
-    "Rusturf Tunnel": {
+    {
+        "zone": "Rusturf Tunnel",
         "walk": [
             "Whismur"
         ]
     },
-    "Rt 105": {
+    {
+        "zone": "Rt 105",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -151,7 +160,8 @@
             ]
         }
     },
-    "Rt 106": {
+    {
+        "zone": "Rt 106",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -172,7 +182,8 @@
             ]
         }
     },
-    "Dewford Town": {
+    {
+        "zone": "Dewford Town",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -193,7 +204,8 @@
             ]
         }
     },
-    "Granite Cave F1": {
+    {
+        "zone": "Granite Cave F1",
         "walk": [
             "Zubat",
             "Makuhita",
@@ -201,7 +213,8 @@
             "Geodude"
         ]
     },
-    "Granite Cave BF1": {
+    {
+        "zone": "Granite Cave BF1",
         "walk": [
             "Zubat",
             "Aron",
@@ -210,7 +223,8 @@
             "Sableye"
         ]
     },
-    "Granite Cave BF2": {
+    {
+        "zone": "Granite Cave BF2",
         "walk": [
             "Zubat",
             "Aron",
@@ -221,7 +235,8 @@
             "Nosepass"
         ]
     },
-    "Granite Cave Stephen\u00e2\u20ac\u2122s Room": {
+    {
+        "zone": "Granite Cave Stephen's Room",
         "walk": [
             "Zubat",
             "Makuhita",
@@ -229,7 +244,8 @@
             "Aron"
         ]
     },
-    "Rt 107": {
+    {
+        "zone": "Rt 107",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -250,7 +266,8 @@
             ]
         }
     },
-    "Rt 108": {
+    {
+        "zone": "Rt 108",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -271,7 +288,8 @@
             ]
         }
     },
-    "Abandoned Ship": {
+    {
+        "zone": "Abandoned Ship",
         "surf": [
             "Tentacool",
             "Tentacruel"
@@ -291,7 +309,8 @@
             ]
         }
     },
-    "Rt 109": {
+    {
+        "zone": "Rt 109",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -312,7 +331,8 @@
             ]
         }
     },
-    "Slateport City": {
+    {
+        "zone": "Slateport City",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -333,7 +353,8 @@
             ]
         }
     },
-    "Rt 110": {
+    {
+        "zone": "Rt 110",
         "walk": [
             "Poochyena",
             "Electrike",
@@ -363,7 +384,8 @@
             ]
         }
     },
-    "Rt 117": {
+    {
+        "zone": "Rt 117",
         "walk": [
             "Poochyena",
             "Oddish",
@@ -391,7 +413,8 @@
             ]
         }
     },
-    "Rt 111": {
+    {
+        "zone": "Rt 111",
         "walk": [
             "Sandshrew",
             "Trapinch",
@@ -419,19 +442,22 @@
             ]
         }
     },
-    "Illusion Pillar": {
+    {
+        "zone": "Illusion Pillar",
         "walk": [
             "Sandshrew",
             "Trapinch"
         ]
     },
-    "Rt 112": {
+    {
+        "zone": "Rt 112",
         "walk": [
             "Numel",
             "Marill"
         ]
     },
-    "Fiery Path": {
+    {
+        "zone": "Fiery Path",
         "walk": [
             "Numel",
             "Koffing",
@@ -441,14 +467,16 @@
             "Grimer"
         ]
     },
-    "Rt 113": {
+    {
+        "zone": "Rt 113",
         "walk": [
             "Spinda",
             "Slugma",
             "Skarmory"
         ]
     },
-    "Rt 114": {
+    {
+        "zone": "Rt 114",
         "walk": [
             "Swablu",
             "Lotad",
@@ -477,7 +505,8 @@
             ]
         }
     },
-    "Meteor Falls Entrance": {
+    {
+        "zone": "Meteor Falls Entrance",
         "walk": [
             "Zubat",
             "Solrock"
@@ -501,7 +530,8 @@
             ]
         }
     },
-    "Meteor Falls Dragon Room": {
+    {
+        "zone": "Meteor Falls Dragon Room",
         "walk": [
             "Golbat",
             "Bagon",
@@ -527,7 +557,8 @@
             ]
         }
     },
-    "Meteor Falls Back Areas": {
+    {
+        "zone": "Meteor Falls Back Areas",
         "walk": [
             "Golbat",
             "Solrock"
@@ -552,7 +583,8 @@
             ]
         }
     },
-    "Rt 115": {
+    {
+        "zone": "Rt 115",
         "walk": [
             "Swablu",
             "Taillow",
@@ -580,14 +612,16 @@
             ]
         }
     },
-    "Jagged Pass": {
+    {
+        "zone": "Jagged Pass",
         "walk": [
             "Numel",
             "Machop",
             "Spoink"
         ]
     },
-    "New Mauville Basement": {
+    {
+        "zone": "New Mauville Basement",
         "walk": [
             "Voltorb",
             "Magnemite",
@@ -595,13 +629,15 @@
             "Magneton"
         ]
     },
-    "New Mauville Entrance": {
+    {
+        "zone": "New Mauville Entrance",
         "walk": [
             "Voltorb",
             "Magnemite"
         ]
     },
-    "Rt 118": {
+    {
+        "zone": "Rt 118",
         "walk": [
             "Zigzagoon",
             "Electrike",
@@ -631,7 +667,8 @@
             ]
         }
     },
-    "Rt 119": {
+    {
+        "zone": "Rt 119",
         "walk": [
             "Zigzagoon",
             "Linoone",
@@ -659,7 +696,8 @@
             ]
         }
     },
-    "Rt 120": {
+    {
+        "zone": "Rt 120",
         "walk": [
             "Poochyena",
             "Mightyena",
@@ -688,7 +726,8 @@
             ]
         }
     },
-    "Rt 121": {
+    {
+        "zone": "Rt 121",
         "walk": [
             "Poochyena",
             "Shuppet",
@@ -718,7 +757,8 @@
             ]
         }
     },
-    "Safari Zone Entrance & Southwest": {
+    {
+        "zone": "Safari Zone Entrance & Southwest",
         "walk": [
             "Oddish",
             "Girafarig",
@@ -738,7 +778,8 @@
             "Seaking"
         ]
     },
-    "Safari Zone Northeast": {
+    {
+        "zone": "Safari Zone Northeast",
         "walk": [
             "Phanpy",
             "Oddish",
@@ -750,7 +791,8 @@
             "Geodude"
         ]
     },
-    "Safari Zone Northwest": {
+    {
+        "zone": "Safari Zone Northwest",
         "walk": [
             "Rhyhorn",
             "Oddish",
@@ -778,7 +820,8 @@
             ]
         }
     },
-    "Safari Zone Extra 1": {
+    {
+        "zone": "Safari Zone Extra 1",
         "walk": [
             "Sunkern",
             "Mareep",
@@ -811,7 +854,8 @@
             ]
         }
     },
-    "Safari Zone Extra 2": {
+    {
+        "zone": "Safari Zone Extra 2",
         "walk": [
             "Aipom",
             "Teddiursa",
@@ -825,7 +869,8 @@
             "Shuckle"
         ]
     },
-    "Lilycove City": {
+    {
+        "zone": "Lilycove City",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -847,7 +892,8 @@
             ]
         }
     },
-    "Rt 122": {
+    {
+        "zone": "Rt 122",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -869,32 +915,37 @@
             ]
         }
     },
-    "Mt Pyre F1-3": {
+    {
+        "zone": "Mt Pyre F1-3",
         "walk": [
             "Shuppet"
         ]
     },
-    "Mt Pyre F4-6": {
+    {
+        "zone": "Mt Pyre F4-6",
         "walk": [
             "Shuppet",
             "Duskull"
         ]
     },
-    "Mt Pyre Mountain Wall": {
+    {
+        "zone": "Mt Pyre Mountain Wall",
         "walk": [
             "Shuppet",
             "Vulpix",
             "Wingull"
         ]
     },
-    "Mt Pyre Summit": {
+    {
+        "zone": "Mt Pyre Summit",
         "walk": [
             "Shuppet",
             "Duskull",
             "Chimecho"
         ]
     },
-    "Rt 123": {
+    {
+        "zone": "Rt 123",
         "walk": [
             "Poochyena",
             "Shuppet",
@@ -924,7 +975,8 @@
             ]
         }
     },
-    "Rt 124": {
+    {
+        "zone": "Rt 124",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -951,7 +1003,8 @@
             ]
         }
     },
-    "Mossdeep City": {
+    {
+        "zone": "Mossdeep City",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -973,7 +1026,8 @@
             ]
         }
     },
-    "Rt 125": {
+    {
+        "zone": "Rt 125",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -995,7 +1049,8 @@
             ]
         }
     },
-    "Shoal Cave Entrance, F1 & BF1": {
+    {
+        "zone": "Shoal Cave Entrance, F1 & BF1",
         "walk": [
             "Zubat",
             "Golbat",
@@ -1021,7 +1076,8 @@
             ]
         }
     },
-    "Shoal Cave BF2": {
+    {
+        "zone": "Shoal Cave BF2",
         "walk": [
             "Zubat",
             "Snorunt",
@@ -1029,7 +1085,8 @@
             "Spheal"
         ]
     },
-    "Rt 126": {
+    {
+        "zone": "Rt 126",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1055,7 +1112,8 @@
             ]
         }
     },
-    "Sootopolis City": {
+    {
+        "zone": "Sootopolis City",
         "surf": [
             "Magikarp"
         ],
@@ -1073,20 +1131,23 @@
             ]
         }
     },
-    "Cave of Origin Entrance": {
+    {
+        "zone": "Cave of Origin Entrance",
         "walk": [
             "Zubat",
             "Golbat"
         ]
     },
-    "Cave of Origin BF1-3, F1": {
+    {
+        "zone": "Cave of Origin BF1-3, F1",
         "walk": [
             "Zubat",
             "Sableye",
             "Golbat"
         ]
     },
-    "Rt 127": {
+    {
+        "zone": "Rt 127",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1108,7 +1169,8 @@
             ]
         }
     },
-    "Rt 128": {
+    {
+        "zone": "Rt 128",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1131,7 +1193,8 @@
             ]
         }
     },
-    "Seafloor Cavern": {
+    {
+        "zone": "Seafloor Cavern",
         "walk": [
             "Zubat"
         ],
@@ -1155,7 +1218,8 @@
             ]
         }
     },
-    "Rt 129": {
+    {
+        "zone": "Rt 129",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1178,7 +1242,8 @@
             ]
         }
     },
-    "Rt 130 Mirage Island": {
+    {
+        "zone": "Rt 130 Mirage Island",
         "walk": [
             "Wynaut"
         ],
@@ -1203,7 +1268,8 @@
             ]
         }
     },
-    "Rt 131": {
+    {
+        "zone": "Rt 131",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1225,30 +1291,8 @@
             ]
         }
     },
-    "Rt 132": {
-        "surf": [
-            "Tentacool",
-            "Wingull",
-            "Pelipper"
-        ],
-        "fish": {
-            "old": [
-                "Magikarp",
-                "Tentacool"
-            ],
-            "good": [
-                "Magikarp",
-                "Tentacool",
-                "Wailmer"
-            ],
-            "super": [
-                "Sharpedo",
-                "Wailmer",
-                "Horsea"
-            ]
-        }
-    },
-    "Rt 133": {
+    {
+        "zone": "Rt 132",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1271,7 +1315,8 @@
             ]
         }
     },
-    "Rt 134": {
+    {
+        "zone": "Rt 133",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1294,7 +1339,32 @@
             ]
         }
     },
-    "Ever Grande City": {
+    {
+        "zone": "Rt 134",
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer",
+                "Horsea"
+            ]
+        }
+    },
+    {
+        "zone": "Ever Grande City",
         "surf": [
             "Tentacool",
             "Wingull",
@@ -1317,7 +1387,8 @@
             ]
         }
     },
-    "Victory Road F1": {
+    {
+        "zone": "Victory Road F1",
         "walk": [
             "Golbat",
             "Hariyama",
@@ -1329,7 +1400,8 @@
             "Whismur"
         ]
     },
-    "Victory Road BF1": {
+    {
+        "zone": "Victory Road BF1",
         "walk": [
             "Golbat",
             "Hariyama",
@@ -1340,7 +1412,8 @@
             "Graveller"
         ]
     },
-    "Victory Road BF2": {
+    {
+        "zone": "Victory Road BF2",
         "walk": [
             "Golbat",
             "Sableye",
@@ -1366,26 +1439,30 @@
             ]
         }
     },
-    "Altering Cave": {
+    {
+        "zone": "Altering Cave",
         "walk": [
             "Zubat"
         ]
     },
-    "Desert Tunnel": {
+    {
+        "zone": "Desert Tunnel",
         "walk": [
             "Ditto",
             "Whismur",
             "Loudred"
         ]
     },
-    "Magma Hideout": {
+    {
+        "zone": "Magma Hideout",
         "walk": [
             "Geodude",
             "Torkoal",
             "Graveller"
         ]
     },
-    "Sky Pillar F1, F3": {
+    {
+        "zone": "Sky Pillar F1, F3",
         "walk": [
             "Sableye",
             "Golbat",
@@ -1393,7 +1470,8 @@
             "Banette"
         ]
     },
-    "Sky Pillar F5": {
+    {
+        "zone": "Sky Pillar F5",
         "walk": [
             "Sableye",
             "Golbat",
@@ -1402,9 +1480,10 @@
             "Banette"
         ]
     },
-    "Studio Hole": {
+    {
+        "zone": "Studio Hole",
         "walk": [
             "Smeargle"
         ]
     }
-}
+]

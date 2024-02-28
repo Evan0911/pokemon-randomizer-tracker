@@ -1,0 +1,69 @@
+<div *ngFor="let zone of encounterList">
+  <h1>{{ zone.zone }}</h1>
+  <div *ngIf="zone.walk">
+    <h3>Grass</h3>
+    <div *ngFor="let encounter of zone.walk">
+      <select>
+        <option value="-1">Chose an encounter</option>
+        <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+      </select>
+    </div>
+  </div>
+  <div *ngIf="zone.surf">
+    <h3>Surf</h3>
+    <div *ngFor="let encounter of zone.surf">
+      <select>
+        <option value="-1">Chose an encounter</option>
+        <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+      </select>
+    </div>
+  </div>
+  <div *ngIf="zone.dive">
+    <h3>Dive</h3>
+    <div *ngFor="let encounter of zone.dive">
+      <select>
+        <option value="-1">Chose an encounter</option>
+        <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+      </select>
+    </div>
+  </div>
+  <div *ngIf="zone.rockSmash">
+    <h3>Rock Smash</h3>
+    <div *ngFor="let encounter of zone.rockSmash">
+      <select>
+        <option value="-1">Chose an encounter</option>
+        <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+      </select>
+    </div>
+  </div>
+  <div *ngIf="zone.fish">
+    <h3>Fish</h3>
+    <div *ngIf="zone.fish.old">
+      <h3>Old Rod</h3>
+      <div *ngFor="let encounter of zone.fish.old">
+        <select>
+          <option value="-1">Chose an encounter</option>
+          <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+        </select>
+      </div>
+    </div>
+    <div *ngIf="zone.fish.good">
+      <h3>Good Rod</h3>
+      <div *ngFor="let encounter of zone.fish.good">
+        <select>
+          <option value="-1">Chose an encounter</option>
+          <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+        </select>
+      </div>
+    </div>
+    <div *ngIf="zone.fish.super">
+      <h3>Super Rod</h3>
+      <div *ngFor="let encounter of zone.fish.super">
+        <select>
+          <option value="-1">Chose an encounter</option>
+          <option *ngFor="let pokemon of pokemons" [value]="pokemon.name">{{ pokemon.name }}</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>

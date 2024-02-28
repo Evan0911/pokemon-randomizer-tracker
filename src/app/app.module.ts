@@ -7,6 +7,8 @@ import { MainPageComponent } from './main-page/main-page.component';
 import { MapComponent } from './map/map.component';
 import { MapButtonComponent } from './map-button/map-button.component';
 import { EncounterListMenuComponent } from './encounter-list-menu/encounter-list-menu.component';
+import { HttpClientModule } from '@angular/common/http';
+import { ListTrackerComponent } from './list-tracker/list-tracker.component';
 
 @NgModule({
   declarations: [
@@ -14,11 +16,13 @@ import { EncounterListMenuComponent } from './encounter-list-menu/encounter-list
     MainPageComponent,
     MapComponent,
     MapButtonComponent,
-    EncounterListMenuComponent
+    EncounterListMenuComponent,
+    ListTrackerComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
