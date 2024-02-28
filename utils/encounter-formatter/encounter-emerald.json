@@ -1,0 +1,1410 @@
+{
+    "Rt 101": {
+        "grass": [
+            "Wurmple",
+            "Poochyena",
+            "Zigzagoon"
+        ]
+    },
+    "Rt 103": {
+        "grass": [
+            "Poochyena",
+            "Wingull",
+            "Zigzagoon"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 102": {
+        "grass": [
+            "Poochyena",
+            "Wurmple",
+            "Lotad",
+            "Zigzagoon",
+            "Ralts",
+            "Seedot"
+        ],
+        "surf": [
+            "Marill",
+            "Goldeen"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Corphish"
+            ],
+            "super": [
+                "Corphish"
+            ]
+        }
+    },
+    "Petalburg City": {
+        "surf": [
+            "Marill"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Corphish"
+            ],
+            "super": [
+                "Corphish"
+            ]
+        }
+    },
+    "Rt 104": {
+        "grass": [
+            "Poochyena",
+            "Wurmple",
+            "Marill",
+            "Taillow",
+            "Wingull"
+        ],
+        "surf": [
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp"
+            ],
+            "good": [
+                "Magikarp"
+            ],
+            "super": [
+                "Magikarp"
+            ]
+        }
+    },
+    "Petalburg Woods": {
+        "grass": [
+            "Poochyena",
+            "Wurmple",
+            "Shroomish",
+            "Silcoon",
+            "Cascoon",
+            "Taillow",
+            "Slakoth"
+        ]
+    },
+    "Rt 116": {
+        "grass": [
+            "Poochyena",
+            "Whismur",
+            "Nincada",
+            "Abra",
+            "Taillow",
+            "Skitty"
+        ]
+    },
+    "Rusturf Tunnel": {
+        "grass": [
+            "Whismur"
+        ]
+    },
+    "Rt 105": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 106": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Dewford Town": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Granite Cave F1": {
+        "grass": [
+            "Zubat",
+            "Makuhita",
+            "Abra",
+            "Geodude"
+        ]
+    },
+    "Granite Cave BF1": {
+        "grass": [
+            "Zubat",
+            "Aron",
+            "Abra",
+            "Makuhita",
+            "Sableye"
+        ]
+    },
+    "Granite Cave BF2": {
+        "grass": [
+            "Zubat",
+            "Aron",
+            "Abra",
+            "Sableye",
+            "rocksmash",
+            "Geodude",
+            "Nosepass"
+        ]
+    },
+    "Granite Cave Stephen\u00e2\u20ac\u2122s Room": {
+        "grass": [
+            "Zubat",
+            "Makuhita",
+            "Abra",
+            "Aron"
+        ]
+    },
+    "Rt 107": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 108": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Abandoned Ship": {
+        "surf": [
+            "Tentacool",
+            "Tentacruel"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "super": [
+                "Tentacool",
+                "Tentacruel"
+            ]
+        }
+    },
+    "Rt 109": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Slateport City": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 110": {
+        "grass": [
+            "Poochyena",
+            "Electrike",
+            "Gulpin",
+            "Minun",
+            "Oddish",
+            "Wingull",
+            "Plusle"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 117": {
+        "grass": [
+            "Poochyena",
+            "Oddish",
+            "Marill",
+            "Illumise",
+            "Volbeat",
+            "Seedot"
+        ],
+        "surf": [
+            "Marill",
+            "Goldeen"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Corphish"
+            ],
+            "super": [
+                "Corphish"
+            ]
+        }
+    },
+    "Rt 111": {
+        "grass": [
+            "Sandshrew",
+            "Trapinch",
+            "Baltoy",
+            "Cacnea",
+            "rocksmash",
+            "Geodude"
+        ],
+        "surf": [
+            "Marill",
+            "Goldeen"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach"
+            ]
+        }
+    },
+    "Illusion Pillar": {
+        "grass": [
+            "Sandshrew",
+            "Trapinch"
+        ]
+    },
+    "Rt 112": {
+        "grass": [
+            "Numel",
+            "Marill"
+        ]
+    },
+    "Fiery Path": {
+        "grass": [
+            "Numel",
+            "Koffing",
+            "Machop",
+            "Torkoal",
+            "Slugma",
+            "Grimer"
+        ]
+    },
+    "Rt 113": {
+        "grass": [
+            "Spinda",
+            "Slugma",
+            "Skarmory"
+        ]
+    },
+    "Rt 114": {
+        "grass": [
+            "Swablu",
+            "Lotad",
+            "Lombre",
+            "Seviper",
+            "Nuzleaf",
+            "rocksmash",
+            "Geodude"
+        ],
+        "surf": [
+            "Marill",
+            "Goldeen"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach"
+            ]
+        }
+    },
+    "Meteor Falls Entrance": {
+        "grass": [
+            "Zubat",
+            "Solrock"
+        ],
+        "surf": [
+            "Zubat",
+            "Solrock"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach"
+            ]
+        }
+    },
+    "Meteor Falls Dragon Room": {
+        "grass": [
+            "Golbat",
+            "Bagon",
+            "Solrock"
+        ],
+        "surf": [
+            "Golbat",
+            "Solrock"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach",
+                "Whiscash"
+            ]
+        }
+    },
+    "Meteor Falls Back Areas": {
+        "grass": [
+            "Golbat",
+            "Solrock"
+        ],
+        "surf": [
+            "Golbat",
+            "Solrock"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach",
+                "Whiscash"
+            ]
+        }
+    },
+    "Rt 115": {
+        "grass": [
+            "Swablu",
+            "Taillow",
+            "Swellow",
+            "Jigglypuff",
+            "Wingull"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Jagged Pass": {
+        "grass": [
+            "Numel",
+            "Machop",
+            "Spoink"
+        ]
+    },
+    "New Mauville Basement": {
+        "grass": [
+            "Voltorb",
+            "Magnemite",
+            "Electrode",
+            "Magneton"
+        ]
+    },
+    "New Mauville Entrance": {
+        "grass": [
+            "Voltorb",
+            "Magnemite"
+        ]
+    },
+    "Rt 118": {
+        "grass": [
+            "Zigzagoon",
+            "Electrike",
+            "Linoone",
+            "Manectric",
+            "Wingull",
+            "Kecleon"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Carvanha"
+            ],
+            "super": [
+                "Sharpedo",
+                "Carvanha"
+            ]
+        }
+    },
+    "Rt 119": {
+        "grass": [
+            "Zigzagoon",
+            "Linoone",
+            "Oddish",
+            "Tropius",
+            "Kecleon"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Carvanha"
+            ],
+            "super": [
+                "Carvanha"
+            ]
+        }
+    },
+    "Rt 120": {
+        "grass": [
+            "Poochyena",
+            "Mightyena",
+            "Oddish",
+            "Marill",
+            "Absol",
+            "Kecleon",
+            "Seedot"
+        ],
+        "surf": [
+            "Marill",
+            "Goldeen"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach"
+            ]
+        }
+    },
+    "Rt 121": {
+        "grass": [
+            "Poochyena",
+            "Shuppet",
+            "Mightyena",
+            "Oddish",
+            "Gloom",
+            "Wingull",
+            "Kecleon"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Safari Zone Entrance & Southwest": {
+        "grass": [
+            "Oddish",
+            "Girafarig",
+            "Natu",
+            "Doduo",
+            "Gloom",
+            "Wobbuffet",
+            "Pikachu",
+            "surf(Southwest)",
+            "Psyduck",
+            "fish(Southwest)",
+            "Magikarp",
+            "Goldeen",
+            "Magikarp",
+            "Goldeen",
+            "Goldeen",
+            "Seaking"
+        ]
+    },
+    "Safari Zone Northeast": {
+        "grass": [
+            "Phanpy",
+            "Oddish",
+            "Natu",
+            "Gloom",
+            "Xatu",
+            "Heracross",
+            "rocksmash",
+            "Geodude"
+        ]
+    },
+    "Safari Zone Northwest": {
+        "grass": [
+            "Rhyhorn",
+            "Oddish",
+            "Doduo",
+            "Gloom",
+            "Dodrio",
+            "Pinsir"
+        ],
+        "surf": [
+            "Psyduck",
+            "Golduck"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "super": [
+                "Goldeen",
+                "Seaking"
+            ]
+        }
+    },
+    "Safari Zone Extra 1": {
+        "grass": [
+            "Sunkern",
+            "Mareep",
+            "Aipom",
+            "Spinarak",
+            "Hoothoot",
+            "Snubbull",
+            "Stantler",
+            "Gligar"
+        ],
+        "surf": [
+            "Wooper",
+            "Marill",
+            "Quagsire"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Remoraid"
+            ],
+            "super": [
+                "Goldeen",
+                "Remoraid",
+                "Octillery"
+            ]
+        }
+    },
+    "Safari Zone Extra 2": {
+        "grass": [
+            "Aipom",
+            "Teddiursa",
+            "Sunkern",
+            "Ledyba",
+            "Hoothoot",
+            "Pineco",
+            "Houndour",
+            "Miltank",
+            "rocksmash",
+            "Shuckle"
+        ]
+    },
+    "Lilycove City": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer",
+                "Staryu"
+            ]
+        }
+    },
+    "Rt 122": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Mt Pyre F1-3": {
+        "grass": [
+            "Shuppet"
+        ]
+    },
+    "Mt Pyre F4-6": {
+        "grass": [
+            "Shuppet",
+            "Duskull"
+        ]
+    },
+    "Mt Pyre Mountain Wall": {
+        "grass": [
+            "Shuppet",
+            "Vulpix",
+            "Wingull"
+        ]
+    },
+    "Mt Pyre Summit": {
+        "grass": [
+            "Shuppet",
+            "Duskull",
+            "Chimecho"
+        ]
+    },
+    "Rt 123": {
+        "grass": [
+            "Poochyena",
+            "Shuppet",
+            "Mightyena",
+            "Oddish",
+            "Gloom",
+            "Wingull",
+            "Kecleon"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 124": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "dive": [
+            "Clamperl",
+            "Chinchou",
+            "Relicanth"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Mossdeep City": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 125": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Shoal Cave Entrance, F1 & BF1": {
+        "grass": [
+            "Zubat",
+            "Golbat",
+            "Spheal"
+        ],
+        "surf": [
+            "Tentacool",
+            "Zubat",
+            "Spheal"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Shoal Cave BF2": {
+        "grass": [
+            "Zubat",
+            "Snorunt",
+            "Golbat",
+            "Spheal"
+        ]
+    },
+    "Rt 126": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper",
+            "underwatersurf",
+            "Clamperl",
+            "Chinchou",
+            "Relicanth"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Sootopolis City": {
+        "surf": [
+            "Magikarp"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp"
+            ],
+            "super": [
+                "Magikarp",
+                "Gyarados"
+            ]
+        }
+    },
+    "Cave of Origin Entrance": {
+        "grass": [
+            "Zubat",
+            "Golbat"
+        ]
+    },
+    "Cave of Origin BF1-3, F1": {
+        "grass": [
+            "Zubat",
+            "Sableye",
+            "Golbat"
+        ]
+    },
+    "Rt 127": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 128": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Luvdisc",
+                "Wailmer",
+                "Corsola"
+            ]
+        }
+    },
+    "Seafloor Cavern": {
+        "grass": [
+            "Zubat"
+        ],
+        "surf": [
+            "Tentacool",
+            "Zubat",
+            "Golbat"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 129": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper",
+            "Wailord"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 130 Mirage Island": {
+        "grass": [
+            "Wynaut"
+        ],
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 131": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer"
+            ]
+        }
+    },
+    "Rt 132": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer",
+                "Horsea"
+            ]
+        }
+    },
+    "Rt 133": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer",
+                "Horsea"
+            ]
+        }
+    },
+    "Rt 134": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Tentacool",
+                "Wailmer"
+            ],
+            "super": [
+                "Sharpedo",
+                "Wailmer",
+                "Horsea"
+            ]
+        }
+    },
+    "Ever Grande City": {
+        "surf": [
+            "Tentacool",
+            "Wingull",
+            "Pelipper"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Tentacool"
+            ],
+            "good": [
+                "Magikarp",
+                "Luvdisc",
+                "Wailmer"
+            ],
+            "super": [
+                "Luvdisc",
+                "Wailmer",
+                "Corsola"
+            ]
+        }
+    },
+    "Victory Road F1": {
+        "grass": [
+            "Golbat",
+            "Hariyama",
+            "Lairon",
+            "Loudred",
+            "Zubat",
+            "Makuhita",
+            "Aron",
+            "Whismur"
+        ]
+    },
+    "Victory Road BF1": {
+        "grass": [
+            "Golbat",
+            "Hariyama",
+            "Lairon",
+            "Mawile",
+            "rocksmash",
+            "Geodude",
+            "Graveller"
+        ]
+    },
+    "Victory Road BF2": {
+        "grass": [
+            "Golbat",
+            "Sableye",
+            "Lairon",
+            "Mawile"
+        ],
+        "surf": [
+            "Golbat"
+        ],
+        "fish": {
+            "old": [
+                "Magikarp",
+                "Goldeen"
+            ],
+            "good": [
+                "Magikarp",
+                "Goldeen",
+                "Barboach"
+            ],
+            "super": [
+                "Barboach",
+                "Whiscash"
+            ]
+        }
+    },
+    "Altering Cave": {
+        "grass": [
+            "Zubat"
+        ]
+    },
+    "Desert Tunnel": {
+        "grass": [
+            "Ditto",
+            "Whismur",
+            "Loudred"
+        ]
+    },
+    "Magma Hideout": {
+        "grass": [
+            "Geodude",
+            "Torkoal",
+            "Graveller"
+        ]
+    },
+    "Sky Pillar F1, F3": {
+        "grass": [
+            "Sableye",
+            "Golbat",
+            "Claydol",
+            "Banette"
+        ]
+    },
+    "Sky Pillar F5": {
+        "grass": [
+            "Sableye",
+            "Golbat",
+            "Claydol",
+            "Altaria",
+            "Banette"
+        ]
+    },
+    "Studio Hole": {
+        "grass": [
+            "Smeargle"
+        ]
+    }
+}
