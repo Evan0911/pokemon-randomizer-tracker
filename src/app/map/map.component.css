@@ -1,0 +1,5 @@
+.mapImage {
+  height: 95%;
+  position: absolute;
+  z-index: -1;
+}
