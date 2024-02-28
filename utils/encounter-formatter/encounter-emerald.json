@@ -1,13 +1,13 @@
 {
     "Rt 101": {
-        "grass": [
+        "walk": [
             "Wurmple",
             "Poochyena",
             "Zigzagoon"
         ]
     },
     "Rt 103": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Wingull",
             "Zigzagoon"
@@ -34,7 +34,7 @@
         }
     },
     "Rt 102": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Wurmple",
             "Lotad",
@@ -81,7 +81,7 @@
         }
     },
     "Rt 104": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Wurmple",
             "Marill",
@@ -105,7 +105,7 @@
         }
     },
     "Petalburg Woods": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Wurmple",
             "Shroomish",
@@ -116,7 +116,7 @@
         ]
     },
     "Rt 116": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Whismur",
             "Nincada",
@@ -126,7 +126,7 @@
         ]
     },
     "Rusturf Tunnel": {
-        "grass": [
+        "walk": [
             "Whismur"
         ]
     },
@@ -194,7 +194,7 @@
         }
     },
     "Granite Cave F1": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Makuhita",
             "Abra",
@@ -202,7 +202,7 @@
         ]
     },
     "Granite Cave BF1": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Aron",
             "Abra",
@@ -211,7 +211,7 @@
         ]
     },
     "Granite Cave BF2": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Aron",
             "Abra",
@@ -222,7 +222,7 @@
         ]
     },
     "Granite Cave Stephen\u00e2\u20ac\u2122s Room": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Makuhita",
             "Abra",
@@ -334,7 +334,7 @@
         }
     },
     "Rt 110": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Electrike",
             "Gulpin",
@@ -364,7 +364,7 @@
         }
     },
     "Rt 117": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Oddish",
             "Marill",
@@ -392,7 +392,7 @@
         }
     },
     "Rt 111": {
-        "grass": [
+        "walk": [
             "Sandshrew",
             "Trapinch",
             "Baltoy",
@@ -420,19 +420,19 @@
         }
     },
     "Illusion Pillar": {
-        "grass": [
+        "walk": [
             "Sandshrew",
             "Trapinch"
         ]
     },
     "Rt 112": {
-        "grass": [
+        "walk": [
             "Numel",
             "Marill"
         ]
     },
     "Fiery Path": {
-        "grass": [
+        "walk": [
             "Numel",
             "Koffing",
             "Machop",
@@ -442,14 +442,14 @@
         ]
     },
     "Rt 113": {
-        "grass": [
+        "walk": [
             "Spinda",
             "Slugma",
             "Skarmory"
         ]
     },
     "Rt 114": {
-        "grass": [
+        "walk": [
             "Swablu",
             "Lotad",
             "Lombre",
@@ -478,7 +478,7 @@
         }
     },
     "Meteor Falls Entrance": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Solrock"
         ],
@@ -502,7 +502,7 @@
         }
     },
     "Meteor Falls Dragon Room": {
-        "grass": [
+        "walk": [
             "Golbat",
             "Bagon",
             "Solrock"
@@ -528,7 +528,7 @@
         }
     },
     "Meteor Falls Back Areas": {
-        "grass": [
+        "walk": [
             "Golbat",
             "Solrock"
         ],
@@ -553,7 +553,7 @@
         }
     },
     "Rt 115": {
-        "grass": [
+        "walk": [
             "Swablu",
             "Taillow",
             "Swellow",
@@ -581,14 +581,14 @@
         }
     },
     "Jagged Pass": {
-        "grass": [
+        "walk": [
             "Numel",
             "Machop",
             "Spoink"
         ]
     },
     "New Mauville Basement": {
-        "grass": [
+        "walk": [
             "Voltorb",
             "Magnemite",
             "Electrode",
@@ -596,13 +596,13 @@
         ]
     },
     "New Mauville Entrance": {
-        "grass": [
+        "walk": [
             "Voltorb",
             "Magnemite"
         ]
     },
     "Rt 118": {
-        "grass": [
+        "walk": [
             "Zigzagoon",
             "Electrike",
             "Linoone",
@@ -632,7 +632,7 @@
         }
     },
     "Rt 119": {
-        "grass": [
+        "walk": [
             "Zigzagoon",
             "Linoone",
             "Oddish",
@@ -660,7 +660,7 @@
         }
     },
     "Rt 120": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Mightyena",
             "Oddish",
@@ -689,7 +689,7 @@
         }
     },
     "Rt 121": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Shuppet",
             "Mightyena",
@@ -719,7 +719,7 @@
         }
     },
     "Safari Zone Entrance & Southwest": {
-        "grass": [
+        "walk": [
             "Oddish",
             "Girafarig",
             "Natu",
@@ -739,7 +739,7 @@
         ]
     },
     "Safari Zone Northeast": {
-        "grass": [
+        "walk": [
             "Phanpy",
             "Oddish",
             "Natu",
@@ -751,7 +751,7 @@
         ]
     },
     "Safari Zone Northwest": {
-        "grass": [
+        "walk": [
             "Rhyhorn",
             "Oddish",
             "Doduo",
@@ -779,7 +779,7 @@
         }
     },
     "Safari Zone Extra 1": {
-        "grass": [
+        "walk": [
             "Sunkern",
             "Mareep",
             "Aipom",
@@ -812,7 +812,7 @@
         }
     },
     "Safari Zone Extra 2": {
-        "grass": [
+        "walk": [
             "Aipom",
             "Teddiursa",
             "Sunkern",
@@ -870,32 +870,32 @@
         }
     },
     "Mt Pyre F1-3": {
-        "grass": [
+        "walk": [
             "Shuppet"
         ]
     },
     "Mt Pyre F4-6": {
-        "grass": [
+        "walk": [
             "Shuppet",
             "Duskull"
         ]
     },
     "Mt Pyre Mountain Wall": {
-        "grass": [
+        "walk": [
             "Shuppet",
             "Vulpix",
             "Wingull"
         ]
     },
     "Mt Pyre Summit": {
-        "grass": [
+        "walk": [
             "Shuppet",
             "Duskull",
             "Chimecho"
         ]
     },
     "Rt 123": {
-        "grass": [
+        "walk": [
             "Poochyena",
             "Shuppet",
             "Mightyena",
@@ -996,7 +996,7 @@
         }
     },
     "Shoal Cave Entrance, F1 & BF1": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Golbat",
             "Spheal"
@@ -1022,7 +1022,7 @@
         }
     },
     "Shoal Cave BF2": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Snorunt",
             "Golbat",
@@ -1074,13 +1074,13 @@
         }
     },
     "Cave of Origin Entrance": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Golbat"
         ]
     },
     "Cave of Origin BF1-3, F1": {
-        "grass": [
+        "walk": [
             "Zubat",
             "Sableye",
             "Golbat"
@@ -1132,7 +1132,7 @@
         }
     },
     "Seafloor Cavern": {
-        "grass": [
+        "walk": [
             "Zubat"
         ],
         "surf": [
@@ -1179,7 +1179,7 @@
         }
     },
     "Rt 130 Mirage Island": {
-        "grass": [
+        "walk": [
             "Wynaut"
         ],
         "surf": [
@@ -1318,7 +1318,7 @@
         }
     },
     "Victory Road F1": {
-        "grass": [
+        "walk": [
             "Golbat",
             "Hariyama",
             "Lairon",
@@ -1330,7 +1330,7 @@
         ]
     },
     "Victory Road BF1": {
-        "grass": [
+        "walk": [
             "Golbat",
             "Hariyama",
             "Lairon",
@@ -1341,7 +1341,7 @@
         ]
     },
     "Victory Road BF2": {
-        "grass": [
+        "walk": [
             "Golbat",
             "Sableye",
             "Lairon",
@@ -1367,26 +1367,26 @@
         }
     },
     "Altering Cave": {
-        "grass": [
+        "walk": [
             "Zubat"
         ]
     },
     "Desert Tunnel": {
-        "grass": [
+        "walk": [
             "Ditto",
             "Whismur",
             "Loudred"
         ]
     },
     "Magma Hideout": {
-        "grass": [
+        "walk": [
             "Geodude",
             "Torkoal",
             "Graveller"
         ]
     },
     "Sky Pillar F1, F3": {
-        "grass": [
+        "walk": [
             "Sableye",
             "Golbat",
             "Claydol",
@@ -1394,7 +1394,7 @@
         ]
     },
     "Sky Pillar F5": {
-        "grass": [
+        "walk": [
             "Sableye",
             "Golbat",
             "Claydol",
@@ -1403,7 +1403,7 @@
         ]
     },
     "Studio Hole": {
-        "grass": [
+        "walk": [
             "Smeargle"
         ]
     }

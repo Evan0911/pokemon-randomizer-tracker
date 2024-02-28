@@ -5,9 +5,9 @@ import traceback
 file = open('utils/encounter-formatter/encounter-emerald.txt')
 lines = file.readlines()
 output = {}
-methods = Enum('methods', ['fish', 'surf', 'dive', 'grass', 'rockSmash'])
+methods = Enum('methods', ['fish', 'surf', 'dive', 'walk', 'rockSmash'])
 rods = Enum('rods', ['old', 'good', 'super', 'none'])
-method = methods.grass
+method = methods.walk
 rod = rods.old
 route = ''
 
@@ -57,7 +57,7 @@ try:
             else:
                 route = line.strip().replace('\n', '')
                 output[route] = {}
-                method = methods.grass
+                method = methods.walk
                 rod = rods.none
 except Exception as e:
     print(route, '\n', output[route], '\n', pokemon, '\n', method.name, '\n', rod.name, '\n', traceback.format_exc())
